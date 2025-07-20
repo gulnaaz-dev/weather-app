@@ -20,7 +20,7 @@ A simple and reusable custom React hook to track and respond to window resize ev
 
 ```bash
 # Clone the repository
-git clone https://github.com/gulnaaz-dev/use-window-resize.git
+git clone https://github.com/gulnaaz-dev/weather-app.git
 
 # Go into the directory
 cd use-window-resize
